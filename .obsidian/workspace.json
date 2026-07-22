@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2bb14a8c31866143",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bc000c95462991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a44a865172b2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/analysis/predictive-analytics-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "predictive-analytics-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd43be0edef9e611",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b11969ac252e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "359d4b89adf6cb3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad0e0178c85c432a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21dcabea876f2737",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f925f1312b509d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb061be0092ce7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d778078b11b83b25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/analysis/predictive-analytics-2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for predictive-analytics-2026"
+            }
+          },
+          {
+            "id": "2111a04f6c1ec325",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/analysis/predictive-analytics-2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from predictive-analytics-2026"
+            }
+          },
+          {
+            "id": "1cde70ae34e1dfc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e1dffe027d7b48f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "afc5f1182362601d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/analysis/predictive-analytics-2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of predictive-analytics-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "75a44a865172b2da",
+  "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/analysis/home-races-performance-analysis.md",
+    "wiki/analysis/predictive-analytics-2026.md",
+    "wiki/analysis/best-performing-teams-and-drivers-by-season.md",
+    "wiki/analysis",
+    "wiki/drivers/alexander-albon.md",
+    "wiki/teams/williams.md",
+    "F1 LLM Wiki knowledge base.md",
+    "wiki/log.md",
+    "wiki/awards/dhl-fastest-lap-award.md",
+    "wiki/seasons/2026-season.md",
+    "wiki/circuits/circuit-de-spa-francorchamps.md",
+    "wiki/circuits/silverstone.md",
+    "wiki/circuits/red-bull-ring.md",
+    "wiki/circuits/circuit-de-barcelona-catalunya.md",
+    "wiki/circuits/circuit-de-monaco.md",
+    "wiki/circuits/circuit-gilles-villeneuve.md",
+    "wiki/circuits/miami-international-autodrome.md",
+    "wiki/circuits/suzuka.md",
+    "wiki/circuits/shanghai-international-circuit.md",
+    "wiki/circuits/albert-park.md",
+    "wiki/races/2026-belgian-gp.md",
+    "wiki/races/2026-british-gp.md",
+    "wiki/races/2026-austrian-gp.md",
+    "wiki/races/2026-spanish-gp.md",
+    "wiki/races/2026-monaco-gp.md",
+    "wiki/races/2026-canadian-gp.md",
+    "wiki/sources",
+    "wiki/awards",
+    "wiki/seasons",
+    "wiki/circuits",
+    "wiki/races",
+    "wiki/teams",
+    "wiki/drivers",
+    "Clippings",
+    "wiki"
+  ]
+}
